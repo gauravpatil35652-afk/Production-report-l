@@ -1,0 +1,6 @@
+{
+  "name": "Daily Production Report",
+  "description": "An interactive, web-based logger and real-time dashboard for recording and analyzing manufacturing output, efficiency, scrap, and downtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
